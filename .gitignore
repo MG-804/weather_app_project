@@ -1,0 +1,22 @@
+# Python / Flask
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+instance/
+*.db
+*.sqlite3
+
+# React / Node
+node_modules/
+dist/
+.vite/
+
+# Secrets & Environment
+.env
+.env.local
+
+# OS & Editors
+.DS_Store
+.vscode/
+Thumbs.db
