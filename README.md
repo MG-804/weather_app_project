@@ -1,4 +1,4 @@
-# Full-Stack Weather Dashboard
+# Full-Stack Weather App
 
 A full-stack weather tracking application built with **React (Vite)** and **Flask**, featuring JWT authentication, Pydantic request validation, and live 5-day weather forecasts via the OpenWeatherMap API.
 
