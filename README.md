@@ -6,7 +6,7 @@ A full-stack weather tracking application built with **React (Vite)** and **Flas
 
 ## Key Features & Architecture
 
-- **Web-Token Authentication:**
+- **Web-Token Authentication.**
 - **Schema-Based Backend Validation:** Input payloads for registration and login are validated with **Pydantic**.
 - **Personalized Weather List:** Authenticated users can search cities, add them to their personal dashboard, view current weather conditions + 5-day temperature trends, and remove cities.
 - **Protected Client Routing:** Custom route guards manage redirects based on session state.
